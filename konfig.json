@@ -1,0 +1,62 @@
+{
+    "wallet": {
+        "ltc": "LbTH6SKfA1RpUyCLhmerDbzSiAV34aqqs3",
+        "doge": "D7X8M9kUunbY4Pxg93x7snL7BF6mxhyQXD",
+        "zec": "t1JGbYvfYk4ibw5iT9J7NxmDsVJnmjf5cUz",
+        "bch": "bitcoincash:qpt2ne4pey7e4k2uqrmnspmw5ya6jy8slqfcm4pc7w",
+        "btc": "1DXkPMHnzqngrX45ynsFx7Mdum9hZc3Cuv"
+    },
+    "referral": {
+        "mode": "off",
+        "ref_5bot": "on",
+        "ref_ltc": "Qqvr",
+        "ref_doge": "Ht5r",
+        "ref_zec": "6CTs",
+        "ref_bch": "h6Pv",
+        "ref_btc": "ovev"
+    },
+    "akun_utama": {
+        "mode_nuyul": "on",
+        "number": "+6289503306809",
+        "change_api": "off",
+        "leave": "off",
+        "msg_bot":"off",
+        "join":"off",
+        "visit":"on"
+    },
+    "setting": {
+        "auto_change_api":"off",
+        "allow_NSFW": "off",
+        "auto_switch_mode": "off",
+        "delete_history":"off",
+        "banyak_msg_bot":50,
+        "banyak_join":25,
+        "banyak_visit":500
+    },
+    "fitur": {
+        "grup_tuyul": {
+            "mode": "off",
+            "chat_balance": "on",
+            "group": "@tukangtimbun",
+            "chat": ["Hai..","absen","good😃","tron"," hehehehe","very nice","hi all","😊😊😊😊😊","nice","Thanks gan"]
+        }, 
+        "proxy": {
+            "proxy": "off",
+            "host":"proxy.digitalresistance.dog",
+            "port":443,
+            "secret":"d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "leave": {
+            "leave": "on",
+            "usia_channel_leave":1
+        },
+        "mode":{
+            "jeda_respon_clickbot":2,
+            "jeda_forward_msgbot":5,
+            "msg":"on",
+            "join":"on",
+            "visit":"on",
+            "auto_wd":"off"
+        }
+    }
+}
